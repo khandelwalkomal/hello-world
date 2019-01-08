@@ -1,9 +1,2 @@
 # hello-world
-nothing
-hello
-hello
-hello
-hello
-hi
-hi
-hi
+simple calculator
